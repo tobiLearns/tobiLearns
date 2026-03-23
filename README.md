@@ -13,5 +13,5 @@ not just making things work, but making them work correctly.
 - General **DevOps** practices and tooling
 
 ## What you'll find here
-- **[kubernetes-homelab](./kubernetes-homelab/README.md)** — My Kubernetes cluster setup: GitOps, secret encryption, automated updates
-- **[lab](./lab/README.md)** — Smaller experiments, tests, and learning projects
+- **[kubernetes-homelab](../../../kubernetes-homelab/)** — My Kubernetes cluster setup: GitOps, secret encryption, automated updates
+- **[lab](../../../lab/)** — Smaller experiments, tests, and learning projects
