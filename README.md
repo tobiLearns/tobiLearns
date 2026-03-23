@@ -1,5 +1,7 @@
 # Tobi's Workshop
 
+<img width="25%" alt="workshop" align="right" src="https://github.com/user-attachments/assets/0a8f1e5a-14bf-4ecf-998e-0ffe14cb5bfc" />
+
 I'm learning Kubernetes and DevOps by building a homelab that reflects how things are done in the real world.
 The focus is on best practices, standards, and patterns used at enterprise and production level;
 not just making things work, but making them work correctly.
